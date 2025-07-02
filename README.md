@@ -39,5 +39,5 @@ Bu depo, “Algoritma ve Programlama – 1” dersi final ödevi olarak gelişti
 - **Make** (tercihe bağlı) veya manuel derleme  
 - C99 standardına uyumlu derleyici
 
-## 📬 Contact
+## 📬 İletşim
 - LinkedIn: [Baran Kanat](https://www.linkedin.com/in/baran-kanat)
