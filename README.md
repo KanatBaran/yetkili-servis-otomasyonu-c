@@ -32,3 +32,12 @@ Bu depo, “Algoritma ve Programlama – 1” dersi final ödevi olarak gelişti
 ├─ yetkiliservis.o # Ana kaynak için nesne dosyası
 └─ Araç Otomasyonu – rapor.pdf # Proje raporu ve dokümantasyon
 ```
+
+## Gereksinimler
+
+- **GCC** (veya Code::Blocks IDE)  
+- **Make** (tercihe bağlı) veya manuel derleme  
+- C99 standardına uyumlu derleyici
+
+## 📬 Contact
+- LinkedIn: [Baran Kanat](https://www.linkedin.com/in/baran-kanat)
